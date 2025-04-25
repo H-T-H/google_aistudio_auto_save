@@ -1,0 +1,2 @@
+# google_aistudio_auto_save
+自动保存谷歌aistuido的prompt
